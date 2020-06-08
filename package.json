@@ -1,0 +1,10 @@
+{
+  "name": "kindle-airtable-sync",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "airtable": "^0.8.1",
+    "dotenv": "^8.2.0"
+  }
+}
