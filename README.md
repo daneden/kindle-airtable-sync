@@ -6,7 +6,7 @@ This little JavaScript utility syncs your Kindle Highlights to a specified Airta
 
 1. **Create an Airtable base with the following fields:**
    | name | type |
-   |======|======|
+   |------|------|
    | title | `string` |
    | author | `string` |
    | note | `string` |
